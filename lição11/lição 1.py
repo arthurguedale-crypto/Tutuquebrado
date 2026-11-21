@@ -23,4 +23,3 @@ df = pd.read_excel("aula10.xlsx")
 
 # Fazer o diagnóstico
 diagnosticar(df)
-fsdfsd
